@@ -1,0 +1,2 @@
+// salam
+db.my_collection.insertOne({ name: "Holberton school" })
