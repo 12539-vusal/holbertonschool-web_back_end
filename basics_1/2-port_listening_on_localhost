@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#salam
+nc -lvnp localhost 98
